@@ -1,1 +1,1 @@
-- chapter_3 : React Basics and Working with Components
+- Section_3 : React Basics and Working with Components

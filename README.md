@@ -1,3 +1,3 @@
-- Section_6 : Styling React Components
+- Section_7 : Debugging React Apps
 
 

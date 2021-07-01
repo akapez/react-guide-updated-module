@@ -3,5 +3,6 @@
 - Section_5 : Rendering List and Conditional Content (Finished Expense Tracker Project)
 - Section_6 : Styling React Components
 - Section_7 : Debugging React Apps
+- Section_8 : A Complete Practice Project
 
 

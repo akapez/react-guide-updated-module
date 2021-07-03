@@ -4,5 +4,8 @@
 - Section_6 : Styling React Components
 - Section_7 : Debugging React Apps
 - Section_8 : A Complete Practice Project
+- Section_9 : Working with Fragments, Portals and "Ref"
+- Section_10 : Handling Side Effects, Using Reducers & Using the Context API
+
 
 

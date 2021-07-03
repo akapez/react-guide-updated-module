@@ -6,11 +6,12 @@
 
 html {
   font-family: 'Noto Sans JP', sans-serif;
+  background-color: #3f3f3f;
 }
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  
 }
 
 

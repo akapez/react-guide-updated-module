@@ -7,7 +7,4 @@
 - Section_9 : Working with Fragments, Portals and "Ref"
 - Section_10 : Handling Side Effects, Using Reducers & Using the Context API
 - Section_11 : Practice Project: Building a Food Order App
-
-
-
-
+- Section_12 : A Look Behind The Scenes Of React & Optimization Techniques

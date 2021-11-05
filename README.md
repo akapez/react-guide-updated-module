@@ -10,3 +10,5 @@
 - Section_12 : A Look Behind The Scenes Of React & Optimization Techniques
 - Section_13 : An Alternative Way Of Building Components: Class-based Components
 - Section_14 : Sending Http Requests (e.g. Connecting to a Database)
+- Section_15 : Custom React Hooks
+

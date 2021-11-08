@@ -12,4 +12,6 @@
 - Section_14 : Sending Http Requests (e.g. Connecting to a Database)
 - Section_15 : Custom React Hooks
 - Section_16 : Working with Forms User Inputs
+- Section_16 : Practice Project: Forms and HTTP
+
 

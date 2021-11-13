@@ -14,6 +14,8 @@
 - Section_16 : Working with Forms User Inputs
 - Section_17 : Practice Project: Forms and HTTP
 - Section_18 : Diving into Redux
+- Section_19 : Advanced Redux
+
 
 
 

@@ -15,7 +15,4 @@
 - Section_17 : Practice Project: Forms and HTTP
 - Section_18 : Diving into Redux
 - Section_19 : Advanced Redux
-
-
-
-
+- Section_20 : React Router SPA

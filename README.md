@@ -1,1 +1,1 @@
-- Section_20 : Part-2 Building a multi-page SPA with React Router
+- Section_20 : Deploying React App

@@ -1,1 +1,1 @@
-- Section_20 : Building a multi-page SPA with React Router
+- Section_22 : Authentication React App

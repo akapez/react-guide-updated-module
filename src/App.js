@@ -1,28 +1,25 @@
-import { Route, Switch, Redirect } from 'react-router-dom';
-import Header from './components/Header';
-import Welcome from './screens/Welcome';
-import Products from './screens/Products';
-import ProductDetails from './screens/ProductDetails';
+import { Switch, Route } from 'react-router-dom';
+
+import Layout from './components/Layout/Layout';
+import UserProfile from './components/Profile/UserProfile';
+import AuthPage from './screens/AuthPage';
+import HomePage from './screens/HomePage';
 
 function App() {
   return (
-    <div>
-      <Header />
+    <Layout>
       <Switch>
         <Route path='/' exact>
-          <Redirect to='/welcome' />
+          <HomePage />
         </Route>
-        <Route path='/welcome'>
-          <Welcome />
+        <Route path='/auth'>
+          <AuthPage />
         </Route>
-        <Route path='/products' exact>
-          <Products />
-        </Route>
-        <Route path='/products/:productId'>
-          <ProductDetails />
+        <Route path='/profile'>
+          <UserProfile />
         </Route>
       </Switch>
-    </div>
+    </Layout>
   );
 }
 

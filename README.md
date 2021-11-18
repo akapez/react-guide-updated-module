@@ -16,3 +16,6 @@
 - Section_18 : Diving into Redux
 - Section_19 : Advanced Redux
 - Section_20 : React Router SPA
+- Section_21 : Deploying React App
+- Section_22 : Adding Authentication to React App
+

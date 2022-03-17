@@ -1,7 +1,10 @@
+import './App.css';
+import Greeting from './components/Greeting';
+
 function App() {
   return (
-    <div>
-      <h2>Let's get started!</h2>
+    <div className="App">
+      <Greeting />
     </div>
   );
 }
